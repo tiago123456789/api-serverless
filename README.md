@@ -11,7 +11,7 @@ INSTRUCTIONS:
 
 - Access project root and execute command: npm install
 - Create directory configEnv if not exist.
-- Within configEnv directory create file following pattern env.name_state.json. Example: env.dev.json or env.prd.json
+- Within configEnv directory create file following name pattern env.name_state.json. Example: env.dev.json or env.prd.json
     - The file must contained values following:
     ```
         {
